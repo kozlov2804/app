@@ -1,4 +1,4 @@
-let arr = [1, 3, 2, 5, 9, 5];
+let arr = [66, 23, 25, 1, 39, 65];
 
 function median (array) {
     array.sort();
